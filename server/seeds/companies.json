@@ -1,0 +1,53 @@
+[
+    {
+      "name": "Apple",
+      "slogan": "Think Different",
+      "userIds": ["John", "James", "Joseph", "Lucas"]
+    },
+    {
+      "name": "Lenovo",
+      "slogan": "Smarter Technology for All",
+      "userIds": ["Emily", "Mia", "Abigail", "Lily"]
+    },
+    {
+      "name": "Nike",
+      "slogan": "Just Do It",
+      "userIds": ["Michael", "Alexander", "Samuel", "Mason"]
+    },
+    {
+      "name": "Adidas",
+      "slogan": "Impossible is Nothing",
+      "userIds": ["Sarah", "Charlotte", "Ella", "Hannah"]
+    },
+    {
+      "name": "Coca-Cola",
+      "slogan": "Open Happiness",
+      "userIds": ["David", "Benjamin", "Henry", "Ethan"]
+    },
+    {
+      "name": "Pepsi",
+      "slogan": "For the Love of It",
+      "userIds": ["Sophia", "Amelia", "Scarlett", "Avery"]
+    },
+    {
+      "name": "Samsung",
+      "slogan": "Imagine the Possibilities",
+      "userIds": ["Daniel", "Elijah", "Sebastian", "Logan"]
+    },
+    {
+      "name": "Microsoft",
+      "slogan": "Be What's Next",
+      "userIds": ["Olivia", "Harper", "Grace", "Zoey"]
+    },
+    {
+      "name": "Google",
+      "slogan": "Do the Right Thing",
+      "userIds": ["Matthew", "Logan", "Jack", "Jacob"]
+    },
+    {
+      "name": "Amazon",
+      "slogan": "Work Hard. Have Fun. Make History.",
+      "userIds": ["Ava", "Evelyn", "Chloe", "Aria"]
+    }
+  ]
+  
